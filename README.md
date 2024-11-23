@@ -9,9 +9,7 @@ This is a simple, visually appealing calculator built using **HTML** and **CSS**
 - **Interactive Buttons**: Buttons respond visually on hover for an engaging user experience.
 - **Functional Layout**: Designed for basic operations like addition, subtraction, multiplication, and division.
 
-## Preview
 
-![Calculator Screenshot](calculator.png)
 
 ## Technologies Used
 
@@ -30,18 +28,18 @@ The HTML file defines the structure of the calculator, including:
 ### CSS (style.css)
 The CSS file defines styles for:
 
-- **Wrapper**: Creates a central container for the calculator.
--**Top Section**: Styled as the display screen with an elegant shadow effect.
+- **Wrapper**: Creates a central container for the calculator. <br>
+-**Top Section**: Styled as the display screen with an elegant shadow effect. <br>
 -**Buttons**: Includes hover effects and color distinctions for functionality.
 
 ### How to Use
-**1** Clone or download the repository.
-**2** Open the index.html file in any browser to view the calculator.
+**1** Clone or download the repository. <br>
+**2** Open the index.html file in any browser to view the calculator. <br>
 **3** Customize the code or integrate functionality as per your requirements.
 
 ### Future Enhancements
-**1** Add JavaScript for functionality.
-**2** Enable keyboard input for seamless user interaction.
+**1** Add JavaScript for functionality. <br>
+**2** Enable keyboard input for seamless user interaction. <br>
 **3** Implement more advanced operations like square root, percentage, etc.
 ### Contributing
 
